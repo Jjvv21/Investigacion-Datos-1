@@ -1,3 +1,6 @@
-# Cloud Computing Investigation
-Hola mundo
+**Computacion en la nube** 
+#
+Frecuentemente la terminología cuando nos referimos a “computación en la nube” se asocia rápidamente con la reducción de costos, disminución de vulnerabilidad y garantía de disponibilidad. De igual modo la computación en la nube se relación con un arquetipo de pago directamente proporcional a la cantidad de uso que se le dé sea cual sea la plataforma. No obstante, cuando se habla del concepto de pago no debería ser solo relacionado solamente con erogación económica dado que solo aplica en caso de proveedores externos y en muchos de los casos hace alusión a poder medir el consumo aplicándose a los centros de costos en una misma empresa.
+Este término se utiliza para hacer referencia a la disponibilidad de los centros de datos para cualquier usuario o usuarios que quieran acceder en un momento determinado con la idea de aportar o extraer cierta cantidad de datos a la que el usuario o los usuarios tengan acceso.
+La computación en la nube ofrece disponibilidad en cuanto a los recursos de sistemas informáticos muy puntualmente orientándose hacia el almacenamiento de datos y la capacidad de cómputo, sin tener el usuario acceso a una gestión directa y activa, razones por las cuales se hace muy efectivo y eficaz su uso. El modelo que se ofrece es innovador y tiene un gran impacto en diversos negocios sin tener que fluctuar sobre ello. Es un modelo que se caracteriza por la virtualización de los recursos y un nivel considerable de automatización, todas estas ventajas o puntos que se ofrecen y facilitan son producto de las capacidades que proporcionan las infraestructuras tecnológicas dinámicas.
 
