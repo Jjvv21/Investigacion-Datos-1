@@ -99,3 +99,4 @@ Si hablamos de costos por servicios para cada proveedor, iniciando con Microsoft
 #
 La computación en la nube, como un nuevo esquema de computación, se ha vuelto una nueva tendencia en el ámbito tecnológico. Esta tendencia, permite a los usuarios manipular una gran variedad de dispositivos para acceder a programas, almacenamiento y plataformas para el desarrollo de software sobre Internet, por medio de los servicios que se facilitan por los proveedores de la nube y ofrecen garantías como la disminución de costos, la alta disponibilidad y la escalabilidad. El concepto clave de este nuevo modelo es el servicio. Esta capacidad de poder utilizar componentes de grano fino y reutilizables a través de la red del proveedor, es lo que se conoce ampliamente como “as a service”. Así, los servicios en conjunto pueden verse como una arquitectura de computación en nube en capas en la cual se incluyen los servicios referidos como SaaS, PaaS e IaaS.
 
+theme: jekyll-theme-cayman
